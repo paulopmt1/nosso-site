@@ -25,16 +25,6 @@ class MenuPrincipal {
             'link'  => 'produtos.php',
             'nome'  => 'PRODUTOS'
         );
-        $menuItems[] = array(
-            'id'    => 3,
-            'link'  => 'livros.php',
-            'nome'  => 'LIVROS'
-        );
-        $menuItems[] = array(
-            'id'    => 4,
-            'link'  => 'impressoes.php',
-            'nome'  => 'IMPRESSÕES'
-        );
         
         return $menuItems;
     }
