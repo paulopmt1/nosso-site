@@ -12,10 +12,3 @@ Se abriu é porque quer me da
 Se abriu é porque quer me da
 Se abriu é porque quer me da
 Se abriu é porque quer me da
-
-tiago nao sabe criar arquivos de textos 
-vocês estão ferrados!
-<<<<<<< HEAD
-mais um texto legal
-=======
->>>>>>> a056bd93ec14728459f95e05e88739f2ed9ccb44
